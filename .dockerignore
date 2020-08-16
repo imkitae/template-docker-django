@@ -1,0 +1,6 @@
+*
+!docker
+!poetry.lock
+!pyproject.toml
+!src
+!var/.gitignore
